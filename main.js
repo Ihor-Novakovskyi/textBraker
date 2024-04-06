@@ -159,5 +159,6 @@ window.addEventListener('mouseup', (e) => {
         rangeElementCtrl = null;
     }
 })
+
 window.addEventListener('keyup', ctrlUnpressed)
 window.addEventListener('keydown', ctrlPressed)
